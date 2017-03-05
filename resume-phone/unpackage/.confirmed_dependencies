@@ -1,0 +1,39 @@
+{
+	"index.html": {
+		"resources": [
+			"images/pic05.png",
+			"images/swiper.jpg",
+			"images/bg3.jpg",
+			"images/mui.jpg",
+			"images/zeptoJs.jpg",
+			"images/mysql.jpg",
+			"images/jquery.jpg",
+			"images/bootstrap.jpg",
+			"images/react.jpg",
+			"css/index.css",
+			"images/html5.jpg",
+			"images/pic07.png",
+			"images/layout.jpg",
+			"images/sublime.jpg",
+			"images/myself.png",
+			"images/bg2.png",
+			"music/bjyy.mp3",
+			"images/HBuilder.png",
+			"images/pic02.png",
+			"images/angularJs.jpg",
+			"images/work01.jpg",
+			"images/pic06.png",
+			"images/pic04.png",
+			"svg/onmusic.svg",
+			"images/gitHub.jpg",
+			"images/cover.jpg",
+			"images/pic03.png",
+			"images/mongoDb.jpg",
+			"images/es.jpg",
+			"images/pic01.png",
+			"js/index.js",
+			"font/iconfont.woff",
+			"images/saoma.jpg"
+		]
+	}
+}
